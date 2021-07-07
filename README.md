@@ -1,3 +1,8 @@
+Useful Links:
+* https://towardsdatascience.com/real-time-head-pose-estimation-in-python-e52db1bc606a
+* https://learnopencv.com/head-pose-estimation-using-opencv-and-dlib/
+
+
 81 Facial Landmarks Shape Predictor
 ===============
 This is a custom shape predictor model trained to find 81 facial feature landmarks given any image.
